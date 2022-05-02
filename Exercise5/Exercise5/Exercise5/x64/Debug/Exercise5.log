@@ -1,0 +1,6 @@
+﻿  Exercise5.cpp
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise5\Exercise5\Exercise5\Exercise5.cpp(93,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise5\Exercise5\Exercise5\Exercise5.cpp(94,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise5\Exercise5\Exercise5\Exercise5.cpp(97,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise5\Exercise5\Exercise5\Exercise5.cpp(98,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Exercise5.vcxproj -> E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise5\Exercise5\x64\Debug\Exercise5.exe

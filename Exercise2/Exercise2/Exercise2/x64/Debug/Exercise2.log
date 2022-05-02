@@ -1,0 +1,4 @@
+﻿  Exercise2.cpp
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise2\Exercise2\Exercise2\Exercise2.cpp(15,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise2\Exercise2\Exercise2\Exercise2.cpp(16,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Exercise2.vcxproj -> E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise2\Exercise2\x64\Debug\Exercise2.exe

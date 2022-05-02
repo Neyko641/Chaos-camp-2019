@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\ConsoleApplication1\ConsoleApplication1.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication1.vcxproj -> E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\x64\Debug\ConsoleApplication1.exe
