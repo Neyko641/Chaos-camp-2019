@@ -1,0 +1,13 @@
+﻿  Exercise6.cpp
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise6\Exercise6\Exercise6\Exercise6.cpp(133,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise6\Exercise6\Exercise6\Exercise6.cpp(134,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise6\Exercise6\Exercise6\Exercise6.cpp(168,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise6\Exercise6\Exercise6\Exercise6.cpp(169,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise6\Exercise6\Exercise6\Exercise6.cpp(172,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise6\Exercise6\Exercise6\Exercise6.cpp(173,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  153 of 247 functions (61.9%) were compiled, the rest were copied from previous compilation.
+    38 functions were new in current compilation
+    24 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Exercise6.vcxproj -> E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise6\Exercise6\x64\Release\Exercise6.exe
