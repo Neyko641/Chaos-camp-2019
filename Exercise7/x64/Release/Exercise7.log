@@ -1,0 +1,22 @@
+﻿  Exercise7.cpp
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise7\Exercise7\Exercise7\Exercise7.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise7\Exercise7\Exercise7\Exercise7.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise7\Exercise7\Exercise7\Exercise7.cpp(138,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise7\Exercise7\Exercise7\Exercise7.cpp(139,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise7\Exercise7\Exercise7\Exercise7.cpp(182,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise7\Exercise7\Exercise7\Exercise7.cpp(183,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise7\Exercise7\Exercise7\Exercise7.cpp(184,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise7\Exercise7\Exercise7\Exercise7.cpp(206,23): warning C4018: '<': signed/unsigned mismatch
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise7\Exercise7\Exercise7\Exercise7.cpp(212,24): warning C4018: '<': signed/unsigned mismatch
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise7\Exercise7\Exercise7\Exercise7.cpp(220,24): warning C4018: '<': signed/unsigned mismatch
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise7\Exercise7\Exercise7\Exercise7.cpp(264,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise7\Exercise7\Exercise7\Exercise7.cpp(282,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise7\Exercise7\Exercise7\Exercise7.cpp(283,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise7\Exercise7\Exercise7\Exercise7.cpp(286,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise7\Exercise7\Exercise7\Exercise7.cpp(287,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  7 of 596 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Exercise7.vcxproj -> E:\Projects\Cpp-projects\Algorithms\Ray-tracing\Ray-tracing exercises\Ray-tracing exercise 3\RTProject\Excercise3\Exercise3\Ray-tracer\Exercise7\Exercise7\x64\Release\Exercise7.exe
